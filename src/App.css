@@ -1,0 +1,16 @@
+.all {
+	background-color: black;
+}
+
+.navbar {
+  background-color: #624a80;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.navbar > a {
+  text-decoration: none;
+  padding: 30px;
+  color: white; 
+}
